@@ -1,0 +1,34 @@
+C:\Users\Huy\Desktop\SoftwareProject\HotelManagement\HotelManagement\bin\Debug\HotelManagement.exe.config
+C:\Users\Huy\Desktop\SoftwareProject\HotelManagement\HotelManagement\bin\Debug\HotelManagement.exe
+C:\Users\Huy\Desktop\SoftwareProject\HotelManagement\HotelManagement\bin\Debug\HotelManagement.pdb
+C:\Users\Huy\Desktop\SoftwareProject\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csprojAssemblyReference.cache
+C:\Users\Huy\Desktop\SoftwareProject\HotelManagement\HotelManagement\obj\Debug\HotelManagement.fLogin.resources
+C:\Users\Huy\Desktop\SoftwareProject\HotelManagement\HotelManagement\obj\Debug\HotelManagement.Properties.Resources.resources
+C:\Users\Huy\Desktop\SoftwareProject\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csproj.GenerateResource.cache
+C:\Users\Huy\Desktop\SoftwareProject\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csproj.CoreCompileInputs.cache
+C:\Users\Huy\Desktop\SoftwareProject\HotelManagement\HotelManagement\obj\Debug\HotelManagement.exe
+C:\Users\Huy\Desktop\SoftwareProject\HotelManagement\HotelManagement\obj\Debug\HotelManagement.pdb
+C:\Users\Huy\Desktop\SoftwareProject\HotelManagement\HotelManagement\obj\Debug\HotelManagement.fMainManager.resources
+C:\Users\Huy\Desktop\SoftwareProject\HotelManagement\HotelManagement\obj\Debug\HotelManagement.fRoomManager.resources
+C:\Users\Huy\Desktop\SoftwareProject\HotelManagement\HotelManagement\obj\Debug\HotelManagement.fPayment.resources
+C:\Users\Huy\Desktop\SoftwareProject\HotelManagement\HotelManagement\obj\Debug\HotelManagement.fChangePassword.resources
+C:\Users\Huy\Desktop\SoftwareProject\HotelManagement\HotelManagement\obj\Debug\HotelManagement.fEmployeeList.resources
+C:\Users\Huy\Desktop\SoftwareProject\HotelManagement\HotelManagement\obj\Debug\HotelManagement.fEquipmentList.resources
+C:\Users\Huy\Desktop\SoftwareProject\HotelManagement\HotelManagement\obj\Debug\HotelManagement.fCreateAccount.resources
+H:\HK1_năm 3\CNPM\HotelManagement\HotelManagement\bin\Debug\HotelManagement.exe.config
+H:\HK1_năm 3\CNPM\HotelManagement\HotelManagement\bin\Debug\HotelManagement.exe
+H:\HK1_năm 3\CNPM\HotelManagement\HotelManagement\bin\Debug\HotelManagement.pdb
+H:\HK1_năm 3\CNPM\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csprojAssemblyReference.cache
+H:\HK1_năm 3\CNPM\HotelManagement\HotelManagement\obj\Debug\HotelManagement.fChangePassword.resources
+H:\HK1_năm 3\CNPM\HotelManagement\HotelManagement\obj\Debug\HotelManagement.fCreateAccount.resources
+H:\HK1_năm 3\CNPM\HotelManagement\HotelManagement\obj\Debug\HotelManagement.fEmployeeList.resources
+H:\HK1_năm 3\CNPM\HotelManagement\HotelManagement\obj\Debug\HotelManagement.fEquipmentList.resources
+H:\HK1_năm 3\CNPM\HotelManagement\HotelManagement\obj\Debug\HotelManagement.fLogin.resources
+H:\HK1_năm 3\CNPM\HotelManagement\HotelManagement\obj\Debug\HotelManagement.fMainManager.resources
+H:\HK1_năm 3\CNPM\HotelManagement\HotelManagement\obj\Debug\HotelManagement.fPayment.resources
+H:\HK1_năm 3\CNPM\HotelManagement\HotelManagement\obj\Debug\HotelManagement.fRoomManager.resources
+H:\HK1_năm 3\CNPM\HotelManagement\HotelManagement\obj\Debug\HotelManagement.Properties.Resources.resources
+H:\HK1_năm 3\CNPM\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csproj.GenerateResource.cache
+H:\HK1_năm 3\CNPM\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csproj.CoreCompileInputs.cache
+H:\HK1_năm 3\CNPM\HotelManagement\HotelManagement\obj\Debug\HotelManagement.exe
+H:\HK1_năm 3\CNPM\HotelManagement\HotelManagement\obj\Debug\HotelManagement.pdb
